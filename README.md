@@ -1,6 +1,4 @@
-<div align="center">
-  <!-- Banner Futurista em Tema Escuro -->
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/7495483018575608171_0" width="100%" alt="Header Banner"/>
+
 
   <h1>Olá, eu sou o Bryan! 👋</h1>
   <p><b>Técnico em TI | Desenvolvedor Software & Banco de Dados</b></p>
