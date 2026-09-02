@@ -3,13 +3,10 @@
   <h1>Olá, eu sou o Bryan! 👋</h1>
   <p><b>Técnico em TI | Desenvolvedor Software & Banco de Dados</b></p>
 
-  <!-- Badges de Tecnologias em Dark Theme -->
+  
   <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="<img src="banner.jpg" width="100%" alt="Banner TI"/>" />
+    
   </p>
 </div>
 
