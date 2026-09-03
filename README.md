@@ -1,17 +1,14 @@
 
-
+<div align="center">
   <h1>Olá, eu sou o Bryan! 👋</h1>
   <p><b>Técnico em TI | Desenvolvedor Software & Banco de Dados</b></p>
-
-  
+  <br />
   <p>
-    <img src="<img src="banner.jpg" width="100%" alt="Banner TI"/>" />
-    
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql,firebase,git,vscode&theme=dark" alt="Linguagens e Ferramentas do Bryan" />
+    </a>
   </p>
 </div>
-
----
-
 ### 👨‍💻 Sobre Mim
 
 Técnico em TI focado em desenvolvimento de sistemas, lógica de programação e arquitetura de dados. Tenho experiência na construção de aplicações web e mobile, integrando bancos de dados relacionais e em nuvem. 
