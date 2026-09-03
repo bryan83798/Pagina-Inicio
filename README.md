@@ -9,8 +9,6 @@
     </a>
   </p>
 </div>
-### 👨‍💻 Sobre Mim
-
 Técnico em TI focado em desenvolvimento de sistemas, lógica de programação e arquitetura de dados. Tenho experiência na construção de aplicações web e mobile, integrando bancos de dados relacionais e em nuvem. 
 
 - 🎓 **Formação:** Técnico em Tecnologia da Informação
