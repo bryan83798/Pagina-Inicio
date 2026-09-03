@@ -13,7 +13,7 @@ Técnico em TI focado em desenvolvimento de sistemas, lógica de programação e
 
 - 🎓 **Formação:** Técnico em Tecnologia da Informação
 - 💻 **Foco Atual:** Aperfeiçoamento em lógica de jogos, arquitetura PHP e integração de APIs
-- 🛠️ **Ferramentas:** VS Code, Git, GitHub, XAMPP e Firebase Console
+- 🛠️ **Ferramentas:** VS Code, Git, Antigravity, GitHub, XAMPP e Firebase Console
 
 ---
 
