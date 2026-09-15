@@ -1,35 +1,17 @@
+# meu_plantao_tranquilo
 
-<div align="center">
-  <h1>Olá, eu sou o Bryan! 👋</h1>
-  <p><b>Técnico em TI | Desenvolvedor Software & Banco de Dados</b></p>
-  <br />
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql,firebase,git,vscode&theme=dark" alt="Linguagens e Ferramentas do Bryan" />
-    </a>
-  </p>
-</div>
-Técnico em TI focado em desenvolvimento de sistemas, lógica de programação e arquitetura de dados. Tenho experiência na construção de aplicações web e mobile, integrando bancos de dados relacionais e em nuvem. 
+A new Flutter project.
 
-- 🎓 **Formação:** Técnico em Tecnologia da Informação
-- 💻 **Foco Atual:** Aperfeiçoamento em lógica de jogos, arquitetura PHP e integração de APIs
-- 🛠️ **Ferramentas:** VS Code, Git, Antigravity, GitHub, XAMPP e Firebase Console
+## Getting Started
 
----
+This project is a starting point for a Flutter application.
 
-### 🚀 Projeto em Destaque: Jogo Tetris (TCC)
+A few resources to get you started if this is your first Flutter project:
 
-Desenvolvimento de uma versão interativa do clássico jogo **Tetris**, focando em lógica de colisão, movimentação de blocos e persistência de dados.
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-* **Linguagem:** Dart / JavaScript
-* **Backend & Dados:** Firebase (nuvem) e MySQL via XAMPP (ambiente local)
-* **Diferencial:** Placar e histórico de pontuações atualizados em tempo real
-
-
-
----
-
-### 📬 Vamos nos conectar?
-
-contato(19) 98828-6451)
-GMAIL: CONTATRABALHO9807@GMAIL.COM
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

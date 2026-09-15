@@ -1,0 +1,70 @@
+name: meu_plantao_tranquilo
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  easy_sidemenu: ^0.7.1
+  firebase_core: ^4.8.0
+  firebase_auth: ^6.5.0
+  cloud_firestore: ^6.5.0
+  google_sign_in: ^6.2.1
+  google_sign_in_web: ^0.12.4+4
+  url_launcher: ^6.3.0
+  shared_preferences: ^2.5.3
+  cached_network_image: ^3.4.1
+
+  # Vídeos YouTube
+  youtube_player_flutter: ^9.1.1
+
+  # WebView
+  webview_flutter: ^4.10.0
+
+  # Podcasts
+  just_audio: ^0.10.4
+  http: ^1.4.0
+  xml: ^6.5.0
+  audio_service: ^0.18.18
+  audio_session: ^0.2.2
+
+  adaptive_theme: ^3.7.2
+  intl: ^0.20.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  intl: ^0.20.2
+
+  # Gerador do ícone do aplicativo
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+# Configuração do ícone do aplicativo
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 21
+
+# Força versões corrigidas do JNI
+# O path_provider_android utiliza JNI no Android.
+dependency_overrides:
+  jni: 1.0.3
+  jni_flutter: 1.0.3
+
