@@ -7,56 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Fira+Code:wght@500&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0d1117;--card:rgba(255,255,255,.05);--line:rgba(255,255,255,.1);--a:#00c6ff;--b:#7b2ff7;--txt:#e6edf3;--mut:#8b98a9}
-*{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--txt);line-height:1.6;overflow-x:hidden}
-body::before,body::after{content:"";position:fixed;width:480px;height:480px;border-radius:50%;filter:blur(120px);opacity:.25;z-index:-1}
-body::before{background:var(--b);top:-120px;left:-120px}
-body::after{background:var(--a);bottom:-120px;right:-120px}
-.wrap{max-width:1000px;margin:0 auto;padding:0 24px}
-nav{position:sticky;top:0;backdrop-filter:blur(12px);background:rgba(13,17,23,.7);border-bottom:1px solid var(--line);z-index:10}
-nav .wrap{display:flex;justify-content:space-between;align-items:center;height:60px}
-.logo{font-weight:800;background:linear-gradient(90deg,var(--a),var(--b));-webkit-background-clip:text;background-clip:text;color:transparent}
-nav a{color:var(--mut);text-decoration:none;margin-left:20px;font-size:.9rem;transition:.2s}
-nav a:hover{color:var(--a)}
-.hero{text-align:center;padding:110px 0 80px}
-.hero .tag{display:inline-block;padding:6px 16px;border:1px solid var(--line);border-radius:99px;color:var(--a);font-size:.85rem;background:var(--card)}
-.hero h1{font-size:clamp(2.6rem,8vw,5rem);font-weight:800;margin:20px 0 10px;line-height:1.1}
-.grad{background:linear-gradient(90deg,var(--a),var(--b));-webkit-background-clip:text;background-clip:text;color:transparent}
-.typing{font-family:"Fira Code",monospace;font-size:clamp(1rem,3vw,1.4rem);color:var(--a);min-height:2em}
-.typing::after{content:"|";animation:blink 1s steps(1) infinite}
-@keyframes blink{50%{opacity:0}}
-.btns{margin-top:30px;display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
-.btn{padding:12px 28px;border-radius:12px;text-decoration:none;font-weight:600;transition:.25s}
-.btn.p{background:linear-gradient(90deg,var(--a),var(--b));color:#fff;box-shadow:0 8px 30px rgba(123,47,247,.35)}
-.btn.s{border:1px solid var(--line);color:var(--txt);background:var(--card)}
-.btn:hover{transform:translateY(-3px)}
-section{padding:70px 0}
-h2{font-size:1.8rem;margin-bottom:28px}
-h2 span{color:var(--a)}
-.glass{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px;backdrop-filter:blur(8px)}
-.about{display:grid;grid-template-columns:1.3fr 1fr;gap:24px}
-pre{font-family:"Fira Code",monospace;font-size:.85rem;color:#c9d1d9;overflow-x:auto}
-.k{color:#ff7b72}.s2{color:#a5d6ff}.c{color:#7ee787}
-.stats{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
-.stat{text-align:center}
-.stat b{display:block;font-size:2rem}
-.stat small{color:var(--mut)}
-.chips{display:flex;flex-wrap:wrap;gap:12px}
-.chip{padding:10px 20px;border-radius:12px;background:var(--card);border:1px solid var(--line);font-weight:600;transition:.25s}
-.chip:hover{border-color:var(--a);transform:translateY(-4px);box-shadow:0 8px 24px rgba(0,198,255,.15)}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
-.proj{transition:.3s;display:block;color:inherit;text-decoration:none}
-.proj:hover{transform:translateY(-6px);border-color:var(--b)}
-.proj h3{margin-bottom:8px}
-.proj p{color:var(--mut);font-size:.95rem;margin-bottom:14px}
-.proj em{font-style:normal;font-size:.75rem;padding:3px 10px;border-radius:99px;background:rgba(123,47,247,.2);color:#c4a5ff;margin-right:6px}
-.contact{text-align:center}
-.contact .btns{margin-top:20px}
-footer{text-align:center;color:var(--mut);padding:40px 0;font-size:.85rem;border-top:1px solid var(--line)}
-.reveal{opacity:0;transform:translateY(24px);transition:.7s}
-.reveal.on{opacity:1;transform:none}
+
 @media(max-width:700px){.about{grid-template-columns:1fr}nav a{margin-left:12px}}
 </style>
 </head>
