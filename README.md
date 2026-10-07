@@ -114,10 +114,10 @@ footer{text-align:center;color:var(--mut);padding:40px 0;font-size:.85rem;border
       <h3>meu_plantao_tranquilo</h3><p>App mobile desenvolvido em Flutter.</p><em>Flutter</em><em>Dart</em>
     </a>
     <a class="glass proj" href="#">
-      <h3>Seu projeto 2</h3><p>Descreva aqui em uma frase.</p><em>PHP</em><em>MySQL</em>
+      <h3>SISTEMA</h3><p>Criaçâo de um App.</p><em>PHP</em><em>MySQL</em>
     </a>
     <a class="glass proj" href="#">
-      <h3>Seu projeto 3</h3><p>Descreva aqui em uma frase.</p><em>JavaScript</em><em>CSS</em>
+      <h3>Seu projeto 3</h3><p>TCC TETRIS.</p><em>Flutter Dart</em><em>CSS</em>
     </a>
   </div>
 </section>
@@ -127,9 +127,9 @@ footer{text-align:center;color:var(--mut);padding:40px 0;font-size:.85rem;border
   <div class="glass">
     <p style="color:var(--mut)">Tem uma ideia ou proposta? Me chama por um dos canais abaixo.</p>
     <div class="btns">
-      <a class="btn p" href="mailto:seuemail@exemplo.com">E-mail</a>
-      <a class="btn s" href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" rel="noopener">LinkedIn</a>
-      <a class="btn s" href="https://instagram.com/SEU-INSTAGRAM" target="_blank" rel="noopener">Instagram</a>
+      <a class="btn p" href="mailto:contatrabalho9807@gmail.com">E-mail</a>
+    
+
       <a class="btn s" href="https://wa.me/55SEUNUMERO" target="_blank" rel="noopener">WhatsApp</a>
     </div>
   </div>
