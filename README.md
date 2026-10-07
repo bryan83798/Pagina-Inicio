@@ -16,7 +16,7 @@
 </div></nav>
 
 <header class="hero wrap">
-  <span class="tag">👋 Bem-vindo ao meu espaço</span>
+
   <h1>Olá, eu sou o <span class="grad">Bryan</span></h1>
   <div class="typing" id="typing"></div>
   <div class="btns">
